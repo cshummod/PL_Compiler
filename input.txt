@@ -1,0 +1,7 @@
+Algorithm of (purpose)
+input: int x<-6;
+output: y
+fun add(int x, int y){
+return x + y;
+}
+output -> add(1, 2)
